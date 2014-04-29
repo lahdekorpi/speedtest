@@ -6,7 +6,7 @@ Tiny JavaScript Internet Connection Speed Test
 Usage
 -----
 
-```
+```js
 var st = new SpeedTest();
 
 st.test({
